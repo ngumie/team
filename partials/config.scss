@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1.5;
+  font-weight: normal;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+
+  padding: 4.5rem 0.75rem 0 0.75rem;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+button {
+  height: 60px;
+  cursor: pointer;
+  padding: 0 2rem;
+  border-radius: 0.8rem;
+}
+
+a {
+  color: inherit;
+}

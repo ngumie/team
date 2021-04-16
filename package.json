@@ -1,0 +1,12 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node-sass --watch partials --output css --output-style expanded"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
