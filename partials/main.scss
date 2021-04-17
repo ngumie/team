@@ -30,7 +30,7 @@
 .team-member {
   display: flex;
 
-  &:nth-child(2n) {
+  &:nth-child(even) {
     margin-top: 50px;
   }
 
@@ -108,7 +108,7 @@ footer {
     line-height: 16px;
   }
 
-  .team-member:nth-child(3n + 2) {
+  .team-member:nth-child(even) {
     margin-top: 126px;
   }
 }
